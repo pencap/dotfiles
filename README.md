@@ -1,1 +1,1 @@
-The main purpose of this repository is for storing some of my dotfiles to setup linux quickly.
+The main purpose of this repository is keeping some of my dotfiles up to date so I can setup linux quickly.
