@@ -1,0 +1,1 @@
+The main purpose of this repository is for storing some of my dotfiles to setup linux quickly.
