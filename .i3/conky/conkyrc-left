@@ -1,0 +1,20 @@
+###   ${exec amixer get Master -M | grep -oE "[[:digit:]]*%"}    \
+
+background no
+out_to_x no
+out_to_console yes
+update_interval 1
+total_run_times 0
+use_spacer none
+
+
+TEXT
+${if_mpd_playing}${mpd_artist}   ${mpd_title}${endif}     \
+
+  ${fs_free /home}     \
+  ${fs_free /}     \
+  ${fs_free /var}     \
+  ${cpu cpu0}%     \
+                      ${memperc}%
+
+
