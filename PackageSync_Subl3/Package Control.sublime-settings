@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"AutoFileName",
+		"Color Highlighter",
+		"Emmet",
+		"Emmet Css Snippets",
+		"GitGutter",
+		"Gutter Color",
+		"JavaScriptNext - ES6 Syntax",
+		"JSHint Gutter",
+		"Origami",
+		"Package Control",
+		"PackageSync",
+		"Sublime-CSS3",
+		"Theme - Cobalt2"
+	],
+	"repositories":
+	[
+		"https://github.com/i-akhmadullin/Sublime-CSS3"
+	]
+}
