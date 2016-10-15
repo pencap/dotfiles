@@ -184,6 +184,7 @@ bindsym $mod+minus scratchpad show
 # Assign specific client workspaces
   assign [class="TeamSpeak 3"] "8:"
   assign [class="Steam"] "8:"
+  assign [class="discord"] "8:"
   assign [class="Kodi"] "4:"
   assign [class="Vlc"] "4:"
   assign [class="Pcmanfm"] "6:"
